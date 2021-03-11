@@ -21,8 +21,15 @@
 ## 前端框架
 - [剖析Vue实现原理 - 如何实现双向绑定mvvm](https://github.com/DMQ/mvvm)
 
+
+## 微信小程序
+- [同层渲染原理](https://developers.weixin.qq.com/community/develop/article/doc/000c4e433707c072c1793e56f5c813)
+
 ## 前端工程化
 - [前端工程化实践总结](https://cloud.tencent.com/developer/article/1505471)
+- [微信小程序工程化探索](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/742008/)
+- [小程序工程化探索](https://github.com/listenzz/MyMina)
+- [webpack5小程序工程化example](https://github.com/Jerenyaoyelu/miniprogram_webpack)
 
 ## 电子书
 - [现代浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
