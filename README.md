@@ -50,6 +50,12 @@
 <br/>
 
 ## 电子书
+- [TypeScript 入门教程](https://ts.xcatliu.com/)
+```text
+阮一峰：
+
+《TypeScript 入门教程》全面介绍了 TypeScript 强大的类型系统，完整而简洁，示例丰富，比官方文档更易读，非常适合作为初学者学习 TypeScript 的第一本书。
+```
 - [现代浏览器工作原理](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 
