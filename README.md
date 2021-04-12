@@ -36,6 +36,15 @@
 
 ## nodejs
 - [区分`exports`/`exports default`/`module export`](https://segmentfault.com/a/1190000010426778)
+```text
+- module.exports/exports: CommonJS规范 （exports是前者的一个引用）
+- export/import: es6规范
+- require: CommonJS和es6都支持
+
+>> CommonJS定义的模块分为: 模块标识(module)、模块定义(exports) 、模块引用(require)
+```
+- [node.js模块的接口设计模式](https://gywbd.github.io/posts/2014/11/using-exports-nodejs-interface-design-pattern.html)
+
 
 <br/>
 
