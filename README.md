@@ -34,6 +34,11 @@
 
 <br/>
 
+## nodejs
+- [区分`exports`/`exports default`/`module export`](https://segmentfault.com/a/1190000010426778)
+
+<br/>
+
 ## 前端工程化
 - [前端工程化实践总结](https://cloud.tencent.com/developer/article/1505471)
 - [微信小程序工程化探索](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/742008/)
