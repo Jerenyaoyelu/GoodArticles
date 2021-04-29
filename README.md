@@ -25,6 +25,10 @@
 
 ## 前端框架
 - [剖析Vue实现原理 - 如何实现双向绑定mvvm](https://github.com/DMQ/mvvm)
+- [理解Vue生命周期](https://mp.weixin.qq.com/s?__biz=MzU1OTgxNDQ1Nw==&mid=2247484176&idx=1&sn=5623421ed2678046ed9e438aadf6e26f&chksm=fc10c146cb67485015f24f7e9f5862c4c685fc33485fe30e1b375a534b4031978439c554e0c0&scene=21#wechat_redirect)
+> ![](./assets/lifecycle.png)
+- [理解Vue数据双向绑定原理](https://mp.weixin.qq.com/s?__biz=MzU1OTgxNDQ1Nw%3D%3D&chksm=fc10c151cb6748476008dab2f4e6c6264f5d19678305955c85cec1b619e56e8f7457b7357fb9&idx=1&mid=2247484167&scene=21&sn=7b00b4333ab2722f25f12586b70667ca#wechat_redirect)
+> ![](./assets/mvvm.png)
 
 <br/>
 
@@ -57,6 +61,8 @@
 <br/>
 
 ## 性能优化
+> Web
+- [SPA 的 SEO 方案对比、最终实践](https://markdowner.net/article/73058307795021824?spm=a2c6h.12873639.0.0.30d150b5BHHvCA?spm=a2c6h.12873639.0.0.30d150b5BHHvCA)
 
 > 微信小程序篇
 - [渲染性能调优](https://segmentfault.com/a/1190000019910111)
@@ -77,3 +83,11 @@
 
 ## 其他杂文
 - [通俗易懂的解释什么是RPC](https://zhuanlan.zhihu.com/p/36427583)
+- [实现gitlab PR自动流程处理机器人](https://hellogithub2014.github.io/2019/06/06/gitlab-webhook/)
+- [只是痒点需求的产品，怎么做起来？！](http://www.woshipm.com/pd/1046272.html)
+
+<br/>
+
+## 声明
+以上内容皆为转载，如有涉及侵权，请联系删除
+
