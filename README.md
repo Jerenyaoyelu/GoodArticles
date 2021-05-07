@@ -61,11 +61,17 @@
 <br/>
 
 ## 性能优化
-> Web
+### Web
 - [SPA 的 SEO 方案对比、最终实践](https://markdowner.net/article/73058307795021824?spm=a2c6h.12873639.0.0.30d150b5BHHvCA?spm=a2c6h.12873639.0.0.30d150b5BHHvCA)
 
-> 微信小程序篇
+### 微信小程序篇
 - [渲染性能调优](https://segmentfault.com/a/1190000019910111)
+
+### 打包
+- [Tree-Shaking性能优化实践 - 原理篇](https://juejin.cn/post/6844903544756109319)
+```text
+tree-shaking消除无用的代码，以减少需要加载的js文件体积，使得整体执行时间缩短而达到性能优化的效果。
+```
 
 <br/>
 
