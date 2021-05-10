@@ -21,6 +21,8 @@
 当两个普通文档流中的块级元素的垂直外边距相遇时，会发生边界重叠，两个合并成一个（两者中的较大者）。水平外边距和行内框、浮动框或绝对定位之间的垂直外边距不会合并。
 ```
 
+- [什么是BFC](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context)
+
 <br/>
 
 ## 前端框架
@@ -29,7 +31,11 @@
 > ![](./assets/lifecycle.png)
 - [理解Vue数据双向绑定原理](https://mp.weixin.qq.com/s?__biz=MzU1OTgxNDQ1Nw%3D%3D&chksm=fc10c151cb6748476008dab2f4e6c6264f5d19678305955c85cec1b619e56e8f7457b7357fb9&idx=1&mid=2247484167&scene=21&sn=7b00b4333ab2722f25f12586b70667ca#wechat_redirect)
 > ![](./assets/mvvm.png)
-
+- [Vue双向绑定原理（3.0和2.0优缺点对比）](https://juejin.cn/post/6844904040791277575)
+```text
+2.0用的是defineProperty来劫持数据的每个属性实现监听相应，3.0使用了proxy代理了整个数据对象实现监听
+```
+- [深入剖析：Vue核心之虚拟DOM](https://juejin.cn/post/6844903895467032589)
 <br/>
 
 ## 微信小程序
